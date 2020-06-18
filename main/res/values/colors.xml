@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="light_red">#FFCDD2</color>
+    <color name="light_green">#C8E6C9</color>
+    <color name="light_blue">#BBDEFB</color>
+    <color name="light_yellow">#FFECB3</color>
+
+    <color name="dark_red">#D32F2F</color>
+    <color name="dark_red1">#ff073a</color>
+
+    <color name="dark_green">#28a745</color>
+    <color name="dark_blue">#007bff</color>
+    <color name="dark_yellow">#FBC02D</color>
+    <color name="dark_grey">#6c757d</color>
+    <color name="back_dark">#161625</color>
+
+
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>
